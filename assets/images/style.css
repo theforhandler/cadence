@@ -1,0 +1,1113 @@
+html {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+body {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+body div {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+span {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+object {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+iframe {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+h1 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+h2 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+h3 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+h4 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+h5 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+h6 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+p {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+blockquote {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+pre {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+abbr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+address {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+cite {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+code {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+del {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+dfn {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+em {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+img {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+ins {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+kbd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+q {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+samp {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+small {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+strong {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+sub {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+sup {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+var {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+b {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+i {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+dl {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+dt {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+dd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+ol {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+ul {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+li {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+fieldset {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+form {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+label {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+legend {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+table {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+caption {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+tbody {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+tfoot {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+thead {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+tr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+th {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+td {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+article {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+aside {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+figure {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+footer {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+header {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+hgroup {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+menu {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+nav {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+section {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+time {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+mark {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+audio {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+video {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; font-size: 100%; vertical-align: baseline;
+}
+article {
+	display: block;
+}
+aside {
+	display: block;
+}
+figure {
+	display: block;
+}
+footer {
+	display: block;
+}
+header {
+	display: block;
+}
+hgroup {
+	display: block;
+}
+nav {
+	display: block;
+}
+section {
+	display: block;
+}
+img {
+	max-width: 100%;
+}
+object {
+	max-width: 100%;
+}
+embed {
+	max-width: 100%;
+}
+html {
+	overflow-y: scroll;
+}
+ul {
+	list-style: none;
+}
+blockquote {
+	quotes: none;
+}
+q {
+	quotes: none;
+}
+blockquote::before {
+	content: none;
+}
+blockquote::after {
+	content: none;
+}
+q::before {
+	content: none;
+}
+q::after {
+	content: none;
+}
+a {
+	margin: 0px; padding: 0px; font-size: 100%; vertical-align: baseline;
+}
+del {
+	text-decoration: line-through;
+}
+abbr[title] {
+	border-bottom-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: dotted; cursor: help;
+}
+dfn[title] {
+	border-bottom-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: dotted; cursor: help;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+th {
+	font-weight: bold; vertical-align: bottom;
+}
+td {
+	font-weight: normal; vertical-align: top;
+}
+hr {
+	border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(204, 204, 204) currentColor currentColor; margin: 1em 0px; padding: 0px; height: 1px; display: block;
+}
+input {
+	vertical-align: middle;
+}
+select {
+	vertical-align: middle;
+}
+pre {
+	white-space: pre-line; word-wrap: break-word;
+}
+input[type='radio'] {
+	vertical-align: text-bottom;
+}
+input[type='checkbox'] {
+	vertical-align: bottom;
+}
+.ie6 input {
+	vertical-align: text-bottom;
+}
+select {
+	
+}
+input {
+	
+}
+textarea {
+	
+}
+table {
+	font-size: inherit;
+}
+a:hover {
+	
+}
+a:active {
+	
+}
+small {
+	font-size: 85%;
+}
+strong {
+	font-weight: bold;
+}
+th {
+	font-weight: bold;
+}
+td {
+	vertical-align: top;
+}
+td img {
+	vertical-align: top;
+}
+sub {
+	line-height: 0; font-size: 75%; position: relative;
+}
+sup {
+	line-height: 0; font-size: 75%; position: relative;
+}
+sup {
+	top: -0.5em;
+}
+sub {
+	bottom: -0.25em;
+}
+pre {
+	font-family: monospace, sans-serif;
+}
+code {
+	font-family: monospace, sans-serif;
+}
+kbd {
+	font-family: monospace, sans-serif;
+}
+samp {
+	font-family: monospace, sans-serif;
+}
+.clickable {
+	cursor: pointer;
+}
+label {
+	cursor: pointer;
+}
+input[type=button] {
+	cursor: pointer;
+}
+input[type=submit] {
+	cursor: pointer;
+}
+button {
+	cursor: pointer;
+}
+button {
+	margin: 0px;
+}
+input {
+	margin: 0px;
+}
+select {
+	margin: 0px;
+}
+textarea {
+	margin: 0px;
+}
+button {
+	width: auto; overflow: visible;
+}
+.ie7 img {
+	-ms-interpolation-mode: bicubic;
+}
+.ie6 html {
+	filter: expression(document.execCommand("BackgroundImageCache", false, true));
+}
+.clearfix::before {
+	height: 0px; overflow: hidden; display: block; content: "\0020";
+}
+.clearfix::after {
+	height: 0px; overflow: hidden; display: block; content: "\0020";
+}
+.clearfix::after {
+	clear: both;
+}
+.clearfix {
+	zoom: 1;
+}
+.alignright {
+	float: right;
+}
+.alignleft {
+	float: left;
+}
+body {
+	font-family: Verdana, Arial, sans-serif; font-size: 0.8em; -webkit-text-size-adjust: 100%;
+}
+body {
+	color: rgb(51, 51, 51);
+}
+select {
+	color: rgb(51, 51, 51);
+}
+input {
+	color: rgb(51, 51, 51);
+}
+textarea {
+	color: rgb(51, 51, 51);
+}
+select {
+	max-width: 140px;
+}
+a {
+	color: rgb(51, 51, 51); font-weight: bold;
+}
+a:hover {
+	color: rgb(82, 46, 145);
+}
+::selection {
+	background: rgb(82, 46, 145); color: rgb(255, 255, 255); text-shadow: none;
+}
+a:link {
+	-webkit-tap-highlight-color: #522e91;
+}
+ins {
+	color: rgb(0, 0, 0); text-decoration: none; background-color: rgb(82, 46, 145);
+}
+mark {
+	color: rgb(0, 0, 0); font-style: italic; font-weight: bold; background-color: rgb(82, 46, 145);
+}
+#viking {
+	margin: 2px 0px 0px 15px; float: left; position: fixed; z-index: 10;
+}
+#viking h1 a {
+	background: url("_/img/v2.png") no-repeat; width: 105px; height: 150px; display: block;
+}
+#viking {
+	z-index: -10;
+}
+#viking {
+	z-index: -10;
+}
+#primarybanner {
+	height: 160px; z-index: -50;
+}
+#primarybanner h4 {
+	display: none;
+}
+#bannercenter {
+	margin: 0px auto; width: 1000px; height: 160px; z-index: 5;
+}
+#wrapper {
+	margin: 0px auto; width: 1000px; z-index: 3;
+}
+#mast {
+	margin: 15px 0px; height: 76px;
+}
+#prolly {
+	width: 100%; height: 56px; background-color: rgb(82, 46, 145);
+}
+#logo {
+	text-indent: -9999px; float: left;
+}
+#logo h1 a {
+	background: url("_/img/title.purp.gif") no-repeat; height: 32px; display: block;
+}
+#logo h1 {
+	padding: 13px 0px 0px 15px; width: 516px;
+}
+#search {
+	margin: 17px 15px 0px 0px; float: right;
+}
+#links {
+	padding: 2px 10px 0px 14px; border: 1px solid rgb(153, 153, 153); height: 16px; font-size: 100%; background-color: rgb(233, 235, 237);
+}
+#links a:hover {
+	
+}
+#categorynav {
+	font-size: 90%;
+}
+.hmenu#categorynav a {
+	padding-right: 15px; font-weight: normal !important;
+}
+.single-merchandise#menu-item-41353 {
+	font-weight: bold !important;
+}
+#internallinks {
+	color: rgb(103, 40, 178); padding-top: 2px; font-size: 70%; float: right;
+}
+.hmenu#internallinks a {
+	font-weight: normal !important;
+}
+li:last-child.menu-divider {
+	display: none;
+}
+li.menu-divider {
+	font-weight: normal;
+}
+#feature {
+	margin: 0px 0px 15px; height: 240px;
+}
+#main {
+	width: 1000px; display: inline-block;
+}
+#content {
+	width: 685px; padding-bottom: 10px; float: left; background-color: rgb(233, 235, 237);
+}
+#content h2 {
+	margin-bottom: 10px;
+}
+#content p {
+	
+}
+#content a {
+	text-decoration: none;
+}
+#content {
+	margin-bottom: 5px !important;
+}
+#article {
+	margin-bottom: 5px !important;
+}
+#main-gallery h2 {
+	margin-bottom: 5px !important;
+}
+#content h3 {
+	text-align: center; padding-top: 15px;
+}
+.post {
+	margin: 0px 15px; padding: 15px 0px 10px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.merchandise {
+	margin: 0px 15px; padding: 15px 0px 10px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.post img {
+	padding-bottom: 5px; margin-right: auto; margin-left: auto; display: block;
+}
+.merchandise img {
+	padding-bottom: 5px; margin-right: auto; margin-left: auto; display: block;
+}
+.entry {
+	padding-bottom: 10px;
+}
+.entry p {
+	padding: 5px 0px;
+}
+#article h2 {
+	margin-bottom: 10px;
+}
+.postmetadata {
+	color: rgb(153, 153, 153); font-size: 0.8em;
+}
+.postmetadata a {
+	color: rgb(82, 46, 145); font-weight: bold;
+}
+.postmetadata a:hover {
+	color: rgb(201, 156, 255);
+}
+.related-posts h2 {
+	margin-bottom: 4px !important;
+}
+#related-posts {
+	margin-bottom: 10px;
+}
+#sidebar {
+	width: 300px; float: right;
+}
+#sidebar h2 {
+	display: none;
+}
+#sidebar img {
+	margin-bottom: 12px;
+}
+#sidebartop {
+	
+}
+#sidebarleft {
+	width: 160px; float: left;
+}
+#sidebarright {
+	width: 140px; float: right;
+}
+#sidebarbottom {
+	width: 300px; text-align: right; line-height: 12px; padding-top: 15px; font-size: 95%; border-top-color: rgb(82, 46, 145); border-top-width: 1px; border-top-style: solid; float: right;
+}
+#sidebarbottom h2 {
+	padding-bottom: 15px; font-size: 110%; display: block;
+}
+#sidebarbottom a {
+	color: rgb(82, 46, 145); font-size: 95%; text-decoration: none;
+}
+#sidebarbottom a:hover {
+	color: rgb(201, 156, 255);
+}
+#footercontainer {
+	background: url("_/img/footerbg.png") no-repeat center rgb(82, 46, 145); width: 100%; padding-bottom: 15px; margin-top: 10px;
+}
+#footerwrap {
+	margin: 0px auto; padding: 20px; width: 960px; text-align: justify; color: rgb(222, 201, 253); font-size: 85%; z-index: 3;
+}
+#footerwrap a {
+	color: rgb(233, 235, 237); text-decoration: none;
+}
+#footerwrap a:hover {
+	color: rgb(56, 36, 88);
+}
+#footerwrap h2 {
+	color: rgb(255, 255, 255); font-size: 110%; margin-bottom: 3px;
+}
+#footerwrap .widget {
+	padding-bottom: 15px;
+}
+#footertop1 {
+	width: 100%; height: 165px; padding-bottom: 2px; border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#footertop2 {
+	width: 100%; height: 165px; padding-bottom: 2px; margin-bottom: 20px; border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#footerthumb {
+	width: 181px; height: 121px; font-size: 80%; font-weight: normal !important; margin-right: 13px; float: left;
+}
+:last-child#footerthumb {
+	margin-right: 0px !important;
+}
+#footerthumbinfo {
+	border-bottom-color: rgb(82, 46, 145); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#footerthumbinfo a {
+	text-decoration: none;
+}
+#footerthumbinfoh4 {
+	padding: 0px 0px 2px; float: left;
+}
+#footerthumbinfo .updated {
+	padding: 0px 1px 0px 0px; float: right;
+}
+#footerleft {
+	width: 470px; padding-right: 20px; margin-right: 15px; border-right-color: rgb(56, 36, 88); border-right-width: 1px; border-right-style: solid; float: left;
+}
+#footer1 {
+	font-size: 100%; margin-bottom: 10px;
+}
+#footer1 h2 {
+	margin-bottom: 0px;
+}
+#footer4 {
+	width: 448px; float: right;
+}
+#footer2 {
+	width: 180px; float: left;
+}
+#footer3 {
+	width: 285px; float: right;
+}
+#footer5 {
+	width: 100%; padding-top: 15px; border-top-color: rgb(56, 36, 88); border-top-width: 1px; border-top-style: solid; float: left;
+}
+#categories-2 {
+	width: 100%; float: left;
+}
+#archives-2 {
+	float: left;
+}
+#text-x {
+	text-align: center; color: rgb(51, 51, 51); padding-top: 5px; font-size: 75%; margin-top: 20px;
+}
+#text-x a {
+	color: rgb(51, 51, 51);
+}
+#text-2 {
+	float: left;
+}
+#text-14 {
+	width: 250px; float: right;
+}
+#text-22 a {
+	text-transform: uppercase; font-size: 9px;
+}
+.fb_ltr {
+	
+}
+.social4i {
+	width: 100%; padding-top: 20px; padding-left: 5px;
+}
+.socialicons {
+	
+}
+.s4plusone {
+	width: 70px !important;
+}
+.s4fblike {
+	width: 80px !important;
+}
+#searchform {
+	
+}
+#s {
+	width: 200px;
+}
+#searchsubmt {
+	
+}
+#searchform404 {
+	text-align: center;
+}
+#error {
+	background: url("_/img/prolly404.jpg") no-repeat center; height: 550px;
+}
+#main-gallery {
+	width: 100%; background-color: rgb(233, 235, 237);
+}
+#main-gallery-title {
+	padding: 2px 0px 0px 5px; height: 18px; color: rgb(233, 235, 237); font-size: 90%; font-weight: normal; background-color: rgb(82, 46, 145);
+}
+#main-gallery h2 {
+	
+}
+#main-gallery h2 a {
+	color: rgb(255, 255, 255);
+}
+#main-gallery h2 span {
+	margin: 1px 5px 0px 0px; float: right;
+}
+#main-gallery a {
+	color: rgb(82, 46, 145); text-decoration: none;
+}
+#main-gallery a:hover {
+	text-decoration: underline;
+}
+#main-gallery .post {
+	border: currentColor;
+}
+#main-gallery-summary {
+	padding: 5px 0px 30px;
+}
+#main-gallery-summary p {
+	padding: 5px 0px;
+}
+#photoscontainer {
+	padding-bottom: 15px; background-color: rgb(233, 235, 237);
+}
+#photoscontainer h2 {
+	margin: 0px 15px; padding-top: 15px; border-bottom-color: rgb(120, 99, 152); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#photoscontainer a {
+	color: rgb(51, 51, 51); font-weight: normal;
+}
+#photosetsnav {
+	padding: 15px 0px 0px 16px; width: 980px; font-size: 115%; font-weight: normal !important; margin-left: 0px;
+}
+.hmenu#photosetsnav a {
+	padding: 0px 5px; color: rgb(233, 235, 237); font-weight: normal !important; margin-right: 6px; background-color: rgb(82, 46, 145);
+}
+.hmenu#photosetsnav a:hover {
+	background-color: rgb(121, 78, 189);
+}
+#photosetsnav li.current-menu-item a {
+	background-color: rgb(121, 78, 189);
+}
+#galleryinstructions {
+	text-transform: uppercase; font-size: 70%;
+}
+#gallerythumb {
+	margin: 13px 0px 4px 16px; width: 312px; height: 225px; font-size: 80%; font-weight: normal !important; float: left;
+}
+#galleryinfo {
+	border-bottom-color: rgb(82, 46, 145); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#galleryinfo a {
+	text-decoration: none;
+}
+#galleryinfo h4 {
+	padding: 0px 0px 2px; text-transform: uppercase; float: left;
+}
+#galleryinfo span {
+	float: right;
+}
+#galleryinfo .updated {
+	padding: 0px 1px 0px 0px; float: right;
+}
+#merchcontainer {
+	padding: 15px; background-color: rgb(233, 235, 237);
+}
+#merchcontainer h2 {
+	margin-bottom: 15px; border-bottom-color: rgb(120, 99, 152); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#merchcontainer h3 {
+	font-size: 85%; margin-bottom: 10px; border-bottom-color: rgb(120, 99, 152); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+#merchleft {
+	width: 656px; float: left;
+}
+#merchright {
+	width: 299px; float: right;
+}
+.merchbox {
+	margin-bottom: 25px;
+}
+#merchdetails {
+	
+}
+#merchadditional {
+	
+}
+#merchslideshow {
+	
+}
+#merchpaypalcode h3 {
+	margin-bottom: 10px !important;
+}
+#shopinstock h2 {
+	margin: 0px 15px; padding-top: 15px; border-bottom-color: rgb(120, 99, 152); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#shopoutofstock {
+	margin-top: 15px;
+}
+#shopoutofstock h2 {
+	margin: 0px 15px; border-bottom-color: rgb(120, 99, 152); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#shopthumb {
+	margin: 13px 0px 14px 16px; width: 312px; height: 270px; font-size: 80%; font-weight: normal !important; border-bottom-color: rgb(120, 99, 152); border-bottom-width: 1px; border-bottom-style: solid; float: left;
+}
+#shopthumboutofstock {
+	margin: 13px 0px 14px 16px; width: 312px; height: 225px; font-size: 80%; font-weight: normal !important; border-bottom-color: rgb(120, 99, 152); border-bottom-width: 1px; border-bottom-style: solid; float: left;
+}
+#shopinfo {
+	
+}
+#shopinfo a {
+	text-decoration: none;
+}
+#shopinfo h4 {
+	padding: 1px 0px 2px; text-align: center; text-transform: uppercase; font-weight: normal !important; float: left;
+}
+#shopinfo span {
+	font-weight: bold; float: right;
+}
+#shopinfo .updated {
+	padding: 0px 1px 0px 0px; float: right;
+}
+.paypalbutton {
+	width: 100%; float: left;
+}
+.leftcol {
+	padding-top: 4px; padding-left: 4px;
+}
+.rightcol {
+	float: right;
+}
+#paypalbuttoncode {
+	text-align: right; padding-top: 16px; font-weight: bold;
+}
+#merchpaypalcode {
+	text-align: right; padding-top: 24px; font-weight: bold;
+}
+.portfolio-slideshow {
+	margin-top: 4px !important;
+}
+.post .slideshow-wrapper p {
+	margin: 4px !important;
+}
+.post .slideshow-wrapper {
+	margin-top: 15px;
+}
+.post .slideshow-nav {
+	margin-top: 5px;
+}
+.post .slideshow-nav a:hover {
+	text-decoration: none !important;
+}
+.pscarousel {
+	padding: 10px 0px 0px 22px; margin-top: 2px; border-top-color: rgb(82, 46, 145); border-top-width: 1px; border-top-style: solid;
+}
+.slideshow-meta {
+	width: 750px !important;
+}
+.slideshow-wrapper {
+	font-size: 85%; border-bottom-color: rgb(82, 46, 145); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.slideshow-nav {
+	font-weight: normal !important; float: right;
+}
+.slideshow-meta {
+	width: 600px; padding-top: 2px; float: left;
+}
+.slideshow-title p {
+	margin: 4px 0px !important;
+}
+.pager img {
+	padding-bottom: 0px !important;
+}
+.pager div:nth-child(10n+10) img {
+	margin-right: 0px !important;
+}
+.psthumbs {
+	margin-top: 5px !important;
+}
+.hmenu {
+	display: inline-block;
+}
+.hmenu ul {
+	list-style: none;
+}
+.hmenu li {
+	float: left; position: relative;
+}
+.hmenu a {
+	padding: 0px 5px 0px 1px; text-decoration: none; display: block;
+}
+.hmenu ul ul {
+	left: 0px; top: 2em; float: left; display: none; position: absolute; z-index: 99999; box-shadow: 0px 3px 3px rgba(0,0,0,0.2); -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2); -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+.hmenu ul ul ul {
+	left: 100%; top: 0px;
+}
+.hmenu ul ul a {
+	padding: 0.5em 0.5em 0.5em 1em; width: 10em; height: auto; line-height: 1em;
+}
+.hmenu li:hover > a {
+	
+}
+#menu ul ul :hover > a {
+	
+}
+.hmenu li.current_page_item a {
+	
+}
+li.current_page_item a {
+	
+}
+a.current_link {
+	
+}
+.hmenu ul ul a:hover {
+	background: rgb(206, 206, 206);
+}
+.hmenu ul li:hover > ul {
+	display: block;
+}
+.dsq-comment-text p {
+	color: rgb(51, 51, 51); font-size: 120%;
+}
+li.dsq-widget-item {
+	margin: 10px 0px !important;
+}
+ol.commentlist {
+	list-style: none; color: rgb(51, 51, 51);
+}
+ol.commentlist li {
+	
+}
+ol.commentlist li.alt {
+	
+}
+ol.commentlist li.bypostauthor {
+	
+}
+ol.commentlist li.byuser {
+	
+}
+ol.commentlist li.comment-author-admin {
+	
+}
+ol.commentlist li.comment {
+	padding: 10px; border-bottom-color: rgb(102, 102, 102); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+ol.commentlist li.comment div.comment-author {
+	
+}
+ol.commentlist li.comment div.vcard {
+	
+}
+ol.commentlist li.comment div.vcard cite.fn {
+	font-style: normal;
+}
+ol.commentlist li.comment div.vcard cite.fn a.url {
+	
+}
+ol.commentlist li.comment div.vcard img.avatar {
+	margin: 0px 0px 10px 10px; float: right;
+}
+ol.commentlist li.comment div.vcard img.avatar-32 {
+	
+}
+ol.commentlist li.comment div.vcard img.photo {
+	
+}
+ol.commentlist li.comment div.vcard span.says {
+	
+}
+ol.commentlist li.comment div.commentmetadata {
+	padding: 3px 0px 3px 3px;
+}
+ol.commentlist li.comment div.comment-meta {
+	font-size: 10px;
+}
+ol.commentlist li.comment div.comment-meta a {
+	color: rgb(204, 204, 204);
+}
+ol.commentlist li.comment p {
+	
+}
+ol.commentlist li.comment ul {
+	
+}
+ol.commentlist li.comment div.reply {
+	padding-top: 5px; font-size: 11px;
+}
+ol.commentlist li.comment div.reply a {
+	font-weight: bold;
+}
+ol.commentlist li.comment ul.children {
+	list-style: none; margin: 10px 0px 0px;
+}
+ol.commentlist li.comment ul.children li {
+	
+}
+ol.commentlist li.comment ul.children li.alt {
+	
+}
+ol.commentlist li.comment ul.children li.bypostauthor {
+	
+}
+ol.commentlist li.comment ul.children li.byuser {
+	
+}
+ol.commentlist li.comment ul.children li.comment {
+	
+}
+ol.commentlist li.comment ul.children li.comment-author-admin {
+	
+}
+ol.commentlist li.comment ul.children li.depth-2 {
+	margin: 0px 0px 10px 10px; border-left-color: rgb(138, 97, 206); border-left-width: 5px; border-left-style: solid;
+}
+ol.commentlist li.comment ul.children li.depth-3 {
+	margin: 0px 0px 10px 10px; border-left-color: rgb(153, 153, 153); border-left-width: 5px; border-left-style: solid;
+}
+ol.commentlist li.comment ul.children li.depth-4 {
+	margin: 0px 0px 10px 10px; border-left-color: rgb(187, 187, 187); border-left-width: 5px; border-left-style: solid;
+}
+ol.commentlist li.comment ul.children li.depth-5 {
+	
+}
+ol.commentlist li.comment ul.children li.odd {
+	
+}
+ol.commentlist li.even {
+	background: rgb(255, 255, 255);
+}
+ol.commentlist li.odd {
+	background: rgb(246, 246, 246);
+}
+ol.commentlist li.parent {
+	border-left-color: rgb(82, 46, 145); border-left-width: 5px; border-left-style: solid;
+}
+ol.commentlist li.thread-alt {
+	
+}
+ol.commentlist li.thread-even {
+	
+}
+ol.commentlist li.thread-odd {
+	
+}
+#navwrap {
+	width: 100%; text-align: center; padding-top: 15px; float: left;
+}
+.wp-pagenavi {
+	margin: 0px auto; clear: both; display: inline-block;
+}
+.wp-pagenavi a {
+	margin: 2px; padding: 3px 1px; font-weight: normal; text-decoration: none;
+}
+.wp-pagenavi span {
+	margin: 2px; padding: 3px 1px; font-weight: normal; text-decoration: none;
+}
+.wp-pagenavi a:hover {
+	
+}
+.wp-pagenavi span.current {
+	
+}
+.wp-pagenavi span.current {
+	font-weight: bold;
+}
+.instagram-image {
+	margin-top: 3px !important; margin-right: 6px !important; float: left;
+}
+#instagram-image-6 {
+	margin-right: 0px !important; float: left;
+}
+#instagram-image-12 {
+	margin-right: 0px !important; float: left;
+}
+#instagram-image-18 {
+	margin-right: 0px !important; float: left;
+}
+#instagram-image-24 {
+	margin-right: 0px !important; float: left;
+}
